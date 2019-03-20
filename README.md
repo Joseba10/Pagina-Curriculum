@@ -3,9 +3,18 @@
 Me llamo Joseba y me dedico a ser tecnico informatico y programador web,entre las cosas he hecho a sido trabajar como soporte tecnico en el ambito del hardware y del software,aunque tambien me he dedicado a la programacion web tanto del lado cliente como del lado del servidor. 
 
 Este tipo de experiencias me han formado y me han hecho ver varios apartados de la informatica y ademas me han hecho aprender diferente lenguajes de programacion y las diferentes formas de mantener los ordenadores tanto fisicamente como por software.
-### Markdown
+### Lenguajes web Frontend
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- HTML5
+- CSS3
+- Angular 5
+- Bootstrap 4
+- Javascript (Basico)
+
+### Lenguajes web Backend
+
+- PHP
+- JAVA EE
 
 ```markdown
 Syntax highlighted code block
@@ -14,8 +23,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
 
 1. Numbered
 2. List
@@ -24,12 +31,6 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Joseba10/Pagina-Curriculum/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
