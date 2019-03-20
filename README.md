@@ -1,9 +1,6 @@
-## Welcome to GitHub Pages
+## Curriculum
 
-You can use the [editor on GitHub](https://github.com/Joseba10/Pagina-Curriculum/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Me llamo Joseba y me dedico a ser tecnico informatico y programador web,entre las cosas he hecho a sido trabajar como soporte tecnico en el ambito del hardware software,aunque tambien me he dedicado a la programacion web tanto del lado cliente como del lado del servidor. Este tipo de experiencias me han formado y me han hecho ver varios apartados de la informatica y ademas me han hecho aprender diferente lenguajes de programacion y las diferentes formas de mantener los ordenadores tanto fisicamente como por software.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
