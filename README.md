@@ -6,7 +6,7 @@ Este tipo de experiencias me han formado y me han hecho ver varios apartados de 
 
 
 ```markdown
-### Lenguajes web Frontend
+## Lenguajes web Frontend
 
 - HTML5
 - CSS3
@@ -14,7 +14,7 @@ Este tipo de experiencias me han formado y me han hecho ver varios apartados de 
 - Bootstrap 4
 - Javascript (Basico)
 
-### Lenguajes web Backend
+## Lenguajes web Backend
 
 - PHP
 - JAVA EE
