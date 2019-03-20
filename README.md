@@ -13,6 +13,7 @@ Este tipo de experiencias me han formado y me han hecho ver varios apartados de 
 - Angular 5
 - Bootstrap 4
 - Javascript (Basico)
+- Wordpress
 
 ## Lenguajes web Backend
 - MYSQL
