@@ -3,6 +3,9 @@
 Me llamo Joseba y me dedico a ser tecnico informatico y programador web,entre las cosas he hecho a sido trabajar como soporte tecnico en el ambito del hardware y del software,aunque tambien me he dedicado a la programacion web tanto del lado cliente como del lado del servidor. 
 
 Este tipo de experiencias me han formado y me han hecho ver varios apartados de la informatica y ademas me han hecho aprender diferente lenguajes de programacion y las diferentes formas de mantener los ordenadores tanto fisicamente como por software.
+
+
+```markdown
 ### Lenguajes web Frontend
 
 - HTML5
@@ -15,21 +18,6 @@ Este tipo de experiencias me han formado y me han hecho ver varios apartados de 
 
 - PHP
 - JAVA EE
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ### Support or Contact
