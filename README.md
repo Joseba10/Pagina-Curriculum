@@ -2,7 +2,7 @@
 
 Me llamo Joseba y me dedico a ser tecnico informatico y programador web,entre las cosas he hecho a sido trabajar como soporte tecnico en el ambito del hardware y del software,aunque tambien me he dedicado a la programacion web tanto del lado cliente como del lado del servidor. 
 
-Este tipo de experiencias me han formado y me han hecho ver varios apartados de la informatica y ademas me han hecho aprender diferente lenguajes de programacion y las diferentes formas de mantener los ordenadores tanto fisicamente como por software.
+Este tipo de experiencias me han formado y me han hecho ver varios apartados de la informatica y ademas me han hecho aprender diferentes lenguajes de programacion y las diferentes formas de mantener los ordenadores tanto fisicamente como por software.
 
 
 ```markdown
